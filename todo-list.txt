@@ -6,6 +6,8 @@ Todo list
 
 3. microbit project
 
+// additional content
+
 4. reading
 
 5. study javacript, vue.js. electron
