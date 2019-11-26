@@ -9,3 +9,5 @@ Todo list
 4. reading
 
 5. study javacript, vue.js. electron
+
+6. go hiking
